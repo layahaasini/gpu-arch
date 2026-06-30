@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.triton/
+*.ncu-rep
+*.nsys-rep
+*.qdrep
+*.sqlite
+*.ptx
+*.cubin
+.venv/
+*.pt
+*.safetensors
